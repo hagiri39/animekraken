@@ -1,0 +1,278 @@
+#u1178
+{
+	background: transparent url("../images/boton%20de%20novelas%20terminado.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u385
+{
+	background: transparent url("../images/boton%20de%20anime.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u341
+{
+	background: transparent url("../images/boton%20de%20inicio%203.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u341:hover
+{
+	background: #FF0000 url("../images/boton%20de%20inicio%203.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#menuu1026
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u1035
+{
+	background-color: transparent;
+	opacity: 0.11;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=11)";
+	filter: alpha(opacity=11);
+}
+
+#u1035:hover
+{
+	background-color: #00FF00;
+	opacity: 0.12;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=12)";
+	filter: alpha(opacity=12);
+}
+
+#u1035:active
+{
+	background-color: #6B6B6B;
+	opacity: 0.12;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=12)";
+	filter: alpha(opacity=12);
+}
+
+#u1038-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u1028
+{
+	background-color: transparent;
+	opacity: 0.11;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=11)";
+	filter: alpha(opacity=11);
+}
+
+#u1028:hover
+{
+	background-color: #00FF00;
+	opacity: 0.12;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=12)";
+	filter: alpha(opacity=12);
+}
+
+#u1028:active
+{
+	background-color: #6B6B6B;
+	opacity: 0.12;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=12)";
+	filter: alpha(opacity=12);
+}
+
+#u1029-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u1030
+{
+	background: transparent url("../images/arrowmenudown.png") no-repeat center center;
+}
+
+#u1028:hover #u1030
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#u1028:active #u1030
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#u1033
+{
+	background-color: #009245;
+}
+
+#u1094
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #777777;
+	background-color: #FFFFFF;
+}
+
+#u1094:hover
+{
+	background-color: #AAAAAA;
+}
+
+#u127,#u167,#u204,#u214,#u224,#u1034,#u1027,#u1032,#u1092,#u1098-4
+{
+	background-color: transparent;
+}
+
+#u1121
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #777777;
+	background-color: #FFFFFF;
+}
+
+#u1121:hover
+{
+	background-color: #AAAAAA;
+}
+
+#u1120,#u1124-4
+{
+	background-color: transparent;
+}
+
+#u1074
+{
+	background-color: transparent;
+	opacity: 0.11;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=11)";
+	filter: alpha(opacity=11);
+}
+
+#u1074:hover
+{
+	background-color: #00FF00;
+	opacity: 0.12;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=12)";
+	filter: alpha(opacity=12);
+}
+
+#u1074:active
+{
+	background-color: #6B6B6B;
+	opacity: 0.12;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=12)";
+	filter: alpha(opacity=12);
+}
+
+#u1035.MuseMenuActive,#u1028.MuseMenuActive,#u1074.MuseMenuActive
+{
+	background-color: #999999;
+	opacity: 0.11;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=11)";
+	filter: alpha(opacity=11);
+}
+
+#u1075-4
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u1038-2,#u1029-2,#u1075-2
+{
+	visibility: hidden;/* 100% transparent text is hidden */
+}
+
+#u1076
+{
+	background: transparent url("../images/arrowmenudown.png") no-repeat center center;
+}
+
+#u1028.MuseMenuActive #u1030,#u1074:hover #u1076
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#u1074:active #u1076
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#u1074.MuseMenuActive #u1076
+{
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+#u1143
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #777777;
+	background-color: #FFFFFF;
+}
+
+#u1143:hover
+{
+	background-color: #AAAAAA;
+}
+
+#u1094.MuseMenuActive,#u1121.MuseMenuActive,#u1143.MuseMenuActive
+{
+	background-color: #666666;
+}
+
+#u1071,#u1072,#u1073,#u1141,#u1147-4
+{
+	background-color: transparent;
+}
+
+#u1098-3,#u1124-3,#u1147-3
+{
+	font-size: 11px;
+	text-align: center;
+	line-height: 13px;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u147,#u184,#u194,#u328,#u1905
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u2308-3,#u1915,#u1925,#u1952
+{
+	background-color: transparent;
+}
+
+#u1962-4
+{
+	background-color: transparent;
+	font-size: 18px;
+	line-height: 22px;
+}
+
+

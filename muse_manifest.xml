@@ -1,0 +1,74 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="animekraken.com" resolutions="1x" timestamp="1596673632621">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-p_g_-maestra.css" crc="4048492156" ref="index:novelas:boogipop-phatom:animes:kimitoitanatsu:darwin´s-game"/>
+    <file name="index.css" crc="3958143298" ref="index"/>
+    <file name="novelas.css" crc="375220666" ref="novelas"/>
+    <file name="boogipop-phatom.css" crc="4280394103" ref="boogipop-phatom"/>
+    <file name="animes.css" crc="3926954521" ref="animes"/>
+    <file name="kimitoitanatsu.css" crc="4081100442" ref="kimitoitanatsu"/>
+    <file name="darwin_s-game.css" crc="316457234" ref="darwin´s-game"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="museutils.js" crc="4190794036" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="whatinput.js" crc="84559013" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+  </folder>
+  <folder name="images">
+    <file name="cabeza de la pagina real-u147.png" crc="187596595" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="pagina web terminada completamente en photoshop-crop-u127.png" crc="3886514603" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="pagina web terminada completamente en photoshop-crop-u167.png" crc="3857676635" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="pagina web terminada completamente en photoshop-u184.png" crc="4285311508" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="pagina web terminada completamente en photoshop-u194.png" crc="3772214176" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="pagina web terminada completamente en photoshop-crop-u204.png" crc="352896537" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="pagina web terminada completamente en photoshop-crop-u214.png" crc="4182485239" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="pagina web terminada completamente en photoshop-crop-u224.png" crc="4206187709" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="pagina web terminada completamente en photoshop-u328.png" crc="4032998178" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="boton de novelas terminado.jpg" crc="385032415" ref="index"/>
+    <file name="boton de anime.jpg" crc="240045357" ref="index"/>
+    <file name="boton de inicio 3.jpg" crc="3835728087" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index"/>
+    <file name="another grande.jpg" crc="231056993" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="darwins game grande.jpg" crc="3902597054" seo="true" ref="index"/>
+    <file name="elfen lied grande.jpg" crc="399574235" seo="true" ref="index"/>
+    <file name="serial experients lair grande.jpg" crc="3919058942" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="texto con sangre en photoshop-texto con sangre.png" crc="3794711522" seo="true" ref="index"/>
+    <file name="darwins game-crop-u1852.jpg" crc="4199538471" ref="index"/>
+    <file name="explicacion de darwins game-darwins game explicacion.png" crc="131621317" seo="true" ref="index"/>
+    <file name="pie de pagina-u1905.png" crc="4020023564" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="boton para pie de pagina-crop-u1915.png" crc="4204057295" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="pagina web terminada completamente en photoshop-crop-u1925.png" crc="3886514603" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="simbolo para pie de pagina de correo electronico.png" crc="4282919861" seo="true" ref="index:animes:darwin´s-game:boogipop-phatom:novelas:kimitoitanatsu"/>
+    <file name="foto para seccion de anime terminada.jpg" crc="215447998" seo="true" ref="animes"/>
+    <file name="u2321-4.png" crc="3960102680" ref="animes"/>
+    <file name="kaname foto-crop-u2158.jpg" crc="335545188" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2160.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2162.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2164.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2166.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2168.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2170.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2172.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2174.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2291.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="haciendo una pistola terminado-crop-u2176.png" crc="507861164" ref="darwin´s-game"/>
+    <file name="simbolo de construccion para pagina web-crop-u2138.jpg" crc="3796596327" ref="boogipop-phatom"/>
+    <file name="simbolo de construccion para pagina web-crop-u2149.jpg" crc="3796596327" ref="novelas"/>
+  </folder>
+  <file name="index.html" crc="94634678" seo="true" mt="1596673131251" redirect="true"/>
+  <file name="animes.html" crc="422377575" seo="true" mt="1596673512616" redirect="true"/>
+  <file name="darwin´s-game.html" crc="176838183" seo="true" mt="1596673131251" redirect="true"/>
+  <file name="boogipop-phatom.html" crc="4195646841" seo="true" mt="1596673131251" redirect="true"/>
+  <file name="novelas.html" crc="4251898128" seo="true" mt="1596673131251" redirect="true"/>
+  <file name="kimitoitanatsu.html" crc="254041128" seo="true" mt="1596673131251" redirect="true"/>
+</manifest>
